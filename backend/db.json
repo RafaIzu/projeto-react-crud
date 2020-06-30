@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Reimu Hakurei",
+      "email": "hakurei@touhou.com"
+    },
+    {
+      "name": "Marisa Kirisame",
+      "email": "kirisame@touhou.com",
+      "id": 3
+    },
+    {
+      "name": "Cirno baka",
+      "email": "baka9@touhou.com",
+      "id": 4
+    }
+  ]
+}
