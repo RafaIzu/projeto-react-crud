@@ -2,7 +2,7 @@
 <hr>
 <h3>Definição:</h3>
 <p>Aplicativo consiste em um crud feito em React js</p>
-<br>
+<hr>
 <h3>Como funciona:</h3>
 <p>O usuario pode registrar seu e-mail e seu nome no qual será arquivado em um arquivo json. O mesmo pode modificar seus dados ou deleta-los apartir dos botões de edição e exclusão.</p>
 <hr>
